@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/component_challenge/static/css/main.fbfcc161.css",
+    "main.js": "/component_challenge/static/js/main.9376d611.js",
+    "static/js/787.fe1c02db.chunk.js": "/component_challenge/static/js/787.fe1c02db.chunk.js",
+    "static/media/abnb_img1.png": "/component_challenge/static/media/abnb_img1.fa745044221fbe305579.png",
+    "static/media/abnb_img4.png": "/component_challenge/static/media/abnb_img4.325ec3c7466cd8998222.png",
+    "static/media/abnb_img2.png": "/component_challenge/static/media/abnb_img2.985162bbaff856f1755a.png",
+    "static/media/abnb_img3.png": "/component_challenge/static/media/abnb_img3.7a4320877fe0c5134417.png",
+    "static/media/udemy_img1.png": "/component_challenge/static/media/udemy_img1.b97a8031521b9425a828.png",
+    "static/media/udemy_img2.png": "/component_challenge/static/media/udemy_img2.27de3d90edf92f6e70a6.png",
+    "static/media/udemy_img3.png": "/component_challenge/static/media/udemy_img3.79b8022c443e8e45e182.png",
+    "index.html": "/component_challenge/index.html",
+    "main.fbfcc161.css.map": "/component_challenge/static/css/main.fbfcc161.css.map",
+    "main.9376d611.js.map": "/component_challenge/static/js/main.9376d611.js.map",
+    "787.fe1c02db.chunk.js.map": "/component_challenge/static/js/787.fe1c02db.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fbfcc161.css",
+    "static/js/main.9376d611.js"
+  ]
+}
